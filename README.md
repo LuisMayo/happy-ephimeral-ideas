@@ -8,3 +8,6 @@ Issues are disabled
 Discussions about ideas may take place in the discussion tab
 
 You're free to use the ideas while mentioning me. It'd be extra cool if you contact me to show me the work
+
+## Ideas
+- [ ] Settings changer for multiple repos at once with a similar feel to [Playlist manager](http://playlist-manager.com/#/main)
